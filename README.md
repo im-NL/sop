@@ -64,5 +64,5 @@ The analytical approximation is only valid when the bath temperature is much str
 
 ## Requirements and Usage
 *   **Dependencies:** `numpy`, `vegas`
-*   **Installation:** `pip install numpy vegas`
-*   **Execution:** Run the script directly via `python3 <filename>.py`. Adjust the variables `T1, T2, T3, T4, m, g` at the top of the file to explore different cosmological epochs.
+*   **Installation:** `pip install -r requirements.txt`
+*   **Execution:** Run the script directly via `python3 collisionterm.py`. Adjust the variables `T1, T2, T3, T4, m, g` at the top of the file to explore different cosmological epochs.
